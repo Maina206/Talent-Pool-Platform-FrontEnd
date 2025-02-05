@@ -11,6 +11,8 @@ Talent Pool App is a platform designed to connect employers with software develo
 - Developer profile browsing for employers
 - Responsive design for various screen sizes
 
+## Go Live Link: https://talentkenya.netlify.app/
+
 ## Upcoming Features
 
 - Advanced search and filtering system for developers by skills and experience
